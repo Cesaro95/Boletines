@@ -12,7 +12,7 @@ links.forEach(function (link) {
         content.classList.add("animate__fadeOutUp");
 
         setTimeout(function () {
-            location.href = "/";
+            location.href = "/Boletines";
         }, 600);
         return false;
     });
