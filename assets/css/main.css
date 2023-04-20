@@ -138,6 +138,7 @@ a:hover{
     }
     .content{
         padding: 1.8em;
+        overflow: hidden;
     }
 }
 
